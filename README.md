@@ -1,2 +1,2 @@
-# ATSF
-Applied Time Series Forecasting course materials
+# TS forecasting home works
+Applied Time Series Forecasting course assignments
